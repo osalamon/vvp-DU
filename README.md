@@ -1,4 +1,11 @@
-# **vvp2025** aka *Vědecké výpočty v Pythonu* (ie. *Scientific calculations in Python*)
+# Repozitář pro domácí úkoly do předmětu Vědecké Výpočty v Pythonu
+
+Toto je repozitář pro odevzdávání domácích úkolů do předmětu Vědecké Výpočty v Pythonu. Autor: *Ondrej Salamon*, `sal0110`.
+
+---
+---
+
+## **vvp2025** aka *Vědecké výpočty v Pythonu* (ie. *Scientific calculations in Python*)
 
 The repo is intended solely as a place for submitting my own solutions of the assigned exercises of the course VVP, organized in summer semester 2025 at [FEI VSB-TUO Ostrava, Department of Applied Mathematics](https://www.fei.vsb.cz/470/en).
 
