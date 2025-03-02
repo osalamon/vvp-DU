@@ -1,6 +1,6 @@
 # Repozitář pro domácí úkoly do předmětu Vědecké Výpočty v Pythonu
 
-Toto je repozitář pro odevzdávání domácích úkolů do předmětu Vědecké Výpočty v Pythonu. Autor: *Ondrej Salamon*, `sal0110`.
+Toto je repozitář pro odevzdávání domácích úkolů do předmětu Vědecké Výpočty v Pythonu. Autor: *Ondrej Salamon*, `sal0110`, [ondrej.salamon@vsb.cz](mailto:ondrej.salamon@vsb.cz).
 
 ---
 ---
